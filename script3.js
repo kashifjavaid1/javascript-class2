@@ -15,3 +15,15 @@ kashif=parseInt(kashif);
 console.log("convert",kashif,typeof(kashif));
 
 
+var gcuf="50.52";
+gcuf=parseInt(gcuf);
+gcuf=Number(gcuf);
+console.log(gcuf,typeof(gcuf));
+var gcuf=030698.10055;
+gcuf=Number(gcuf);
+console.log(gcuf,typeof(gcuf));
+
+var gcuf="kashif";
+console.log("muhmmad"+ gcuf);
+var gc=20;
+console.log("kashif"+gc+" gc university");

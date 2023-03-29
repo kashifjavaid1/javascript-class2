@@ -10,3 +10,8 @@ console.log("Result show =",nam,typeof(nam));
 console.log("Result show =",j,typeof(j));
 
 
+var kashif="4.25";
+kashif=parseInt(kashif);
+console.log("convert",kashif,typeof(kashif));
+
+
